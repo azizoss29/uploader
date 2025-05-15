@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+gunicorn
+openpyxl
+pandas
+selenium
+chromedriver-py
+werkzeug
